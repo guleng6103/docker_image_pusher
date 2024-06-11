@@ -5,3 +5,4 @@ xhofe/alist:latest
 gdy666/lucky
 Kareadita/Kavita
 getmango/Mango
+uparrows/LANraragi_cn
