@@ -6,3 +6,4 @@ gdy666/lucky
 Kareadita/Kavita
 getmango/Mango
 uparrows/LANraragi_cn
+zmister/mrdoc
